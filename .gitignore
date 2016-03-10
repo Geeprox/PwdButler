@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+.name
+encodings.xml
+misc.xml
+modules.xml
+PwdButler.iml
+vcs.xml
+pwdButler.dat
